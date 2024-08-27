@@ -1,0 +1,2 @@
+# Per non caricare le cartelle di cache python
+__pycache__/
